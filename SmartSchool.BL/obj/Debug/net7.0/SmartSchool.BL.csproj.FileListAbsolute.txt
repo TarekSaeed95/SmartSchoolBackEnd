@@ -1,0 +1,15 @@
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.csproj.AssemblyReference.cache
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.AssemblyInfoInputs.cache
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.AssemblyInfo.cs
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.csproj.CoreCompileInputs.cache
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\bin\Debug\net7.0\SmartSchool.BL.deps.json
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\bin\Debug\net7.0\SmartSchool.BL.dll
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\bin\Debug\net7.0\SmartSchool.BL.pdb
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\bin\Debug\net7.0\SmartSchool.DAL.dll
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\bin\Debug\net7.0\SmartSchool.DAL.pdb
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.csproj.CopyComplete
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.dll
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\refint\SmartSchool.BL.dll
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\SmartSchool.BL.pdb
+D:\0000-Final Project\01-BackEnd\Backend\SmartSchool.BL\obj\Debug\net7.0\ref\SmartSchool.BL.dll
