@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PpEdYKY5hAGyLC+beRuxWX6oJpAx6Q+Lo6MdkT4Rs7qo9bppx5UIqUHZNuU/6+0pWgyFKmxJfWOWbL7uqaqeBw==",
+  "dgSpecHash": "x+syzPeZY/RpJEGpZmenvIKr28DXshUIpvwT78n++kLj+dc8ICeiv7zCY9q63rC1pv/irfCCQp+wC7PA5BLBQg==",
   "success": true,
-  "projectFilePath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.BL\\SmartSchool.BL.csproj",
+  "projectFilePath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

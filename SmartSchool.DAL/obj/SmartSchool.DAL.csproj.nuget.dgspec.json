@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {}
+    "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {}
   },
   "projects": {
-    "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {
+    "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
+        "projectUniqueName": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
         "projectName": "SmartSchool.DAL",
-        "projectPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
+        "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.DAL\\obj\\",
+        "outputPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

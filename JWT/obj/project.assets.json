@@ -11288,11 +11288,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0000-Final Project\\01-BackEnd\\Backend\\JWT\\JWT.csproj",
+      "projectUniqueName": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\JWT\\JWT.csproj",
       "projectName": "JWT",
-      "projectPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\JWT\\JWT.csproj",
+      "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\JWT\\JWT.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\JWT\\obj\\",
+      "outputPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\JWT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

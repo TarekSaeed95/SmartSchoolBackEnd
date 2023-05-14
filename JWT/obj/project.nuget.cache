@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zmET9tvFenOKuK4bLNUpauUizouLe2BAesWbVHjUdXLJCxK2yoKICzQ2v4QM66D946ziSa38UFS9FXKOkqdzAA==",
+  "dgSpecHash": "q2M/o+t1XP33GgRbDyllXZKfx/tTmPg3E4FYh1AYE2F37C0UrXb9dn4QPTuffcuEvbbNDNevUIlO2EZtiwi18w==",
   "success": true,
-  "projectFilePath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\JWT\\JWT.csproj",
+  "projectFilePath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\JWT\\JWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -4254,11 +4254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.Api\\SmartSchool.Api.csproj",
+      "projectUniqueName": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj",
       "projectName": "SmartSchool.Api",
-      "projectPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.Api\\SmartSchool.Api.csproj",
+      "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.Api\\obj\\",
+      "outputPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4275,8 +4275,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.BL\\SmartSchool.BL.csproj": {
-              "projectPath": "D:\\0000-Final Project\\01-BackEnd\\Backend\\SmartSchool.BL\\SmartSchool.BL.csproj"
+            "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj": {
+              "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj"
             }
           }
         }
