@@ -25,14 +25,16 @@ namespace SmartSchool.DAL.Entities
        
         public int gradeYearId { get; set; }
 
-        //[InverseProperty("Class")]
-        //public virtual ICollection<Schedule> Schedules { get; set; } = new List<Schedule>();
 
+        [InverseProperty("Class")]
+        public virtual ICollection<Schedule> Schedules { get; set; } = new List<Schedule>();
+
+        //lma sheltha l migration mshtghlsh
         [InverseProperty("ClassRoom")]
         public virtual ICollection<Student> Students { get; set; } = new List<Student>();
 
         [ForeignKey("gradeYearId")]
-        [InverseProperty("ClassRooms")]
+        //[InverseProperty("ClassRooms")]
         public virtual GradeYear gradeYear { get; set; }
 
 
@@ -42,6 +44,9 @@ namespace SmartSchool.DAL.Entities
         //[ForeignKey("ClassroomId")]
         //[InverseProperty("Classrooms")]
         //public virtual ICollection<Teacher> Teachers { get; set; } = new List<Teacher>();
+
+
+       
 
 
 

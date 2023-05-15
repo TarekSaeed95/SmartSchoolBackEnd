@@ -21,6 +21,7 @@ namespace SmartSchool.Api
      
         public static void Main(string[] args)
         {
+
             string txt = "hi";
             var builder = WebApplication.CreateBuilder(args);
 
@@ -65,6 +66,8 @@ namespace SmartSchool.Api
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddScoped<ISubjectRepo, SubjectRepo>();
             builder.Services.AddScoped<IClassRoomRepo, ClassRoomRepo>();
+            builder.Services.AddScoped<IScheduleRepo, ScheduleRepo>();
+            builder.Services.AddScoped<ISessionRepo, SessionRepo>();
             //builder.Services.AddScoped<IComplaintRepo, ComplaintRepo>();
             //builder.Services.AddScoped<IParentRepo, ParentRepo>();
             //builder.Services.AddScoped<IStudentRepo, StudentRepo>();

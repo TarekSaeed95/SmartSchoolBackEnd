@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SmartSchool.DAL.Context;
 
@@ -11,9 +12,11 @@ using SmartSchool.DAL.Context;
 namespace SmartSchool.DAL.Migrations
 {
     [DbContext(typeof(SmartSchoolContext))]
-    partial class SmartSchoolContextModelSnapshot : ModelSnapshot
+    [Migration("20230515153511_AddSessionSchedule")]
+    partial class AddSessionSchedule
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -409,11 +412,18 @@ namespace SmartSchool.DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<DateTime>("EndTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("ScheduleID")
                         .HasColumnType("int");
 
-                    b.Property<int>("SessionNo")
-                        .HasColumnType("int");
+                    b.Property<DateTime>("StartTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("TeacherID")
                         .HasColumnType("nvarchar(450)");

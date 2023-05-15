@@ -11,7 +11,7 @@ namespace SmartSchool.BL.ViewModel
 {
     public class ClassRoomVM
     {
-        
+        //for all VM will we keep ID or not ?
 
         public int Id { get; set; }
 

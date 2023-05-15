@@ -159,7 +159,7 @@ namespace SmartSchool.Api.Controllers
         //}
 
         [HttpPost]
-        [Route("Save")]
+        [Route("Save/{id}")]
         public async Task<IActionResult> RegisterAsync(int id)
         {
             //if (!ModelState.IsValid)
@@ -196,15 +196,18 @@ namespace SmartSchool.Api.Controllers
             //we will send id in action paremter    
             //l gded
             RequestRepo.SaveInDb(obj.id, ParentIdentityId, StudentIdentityId);
-
+            RequestRepo.Delete(id);
+            string message = "success";
                 //return Ok({ token = result.Token, expireOn = result.ExpireOn});
 
-                //return Ok(result);
-                return Ok(new { Parent, Student });      
+            //return Ok(result);
+                return Ok(new {message, Parent, Student });      
 
         }
 
         [HttpDelete]
+        
+        [Route("Delete/{id}")]
         public ActionResult Delete(int id)
         {
             try
