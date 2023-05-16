@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SmartSchool.Api",
+    "\\SmartSchool.BL",
+    "\\SmartSchool.DAL",
+    "\\SmartSchool.DAL\\Entities"
+  ],
+  "SelectedNode": "\\SmartSchool.DAL\\Entities\\TeacherAttendance.cs",
+  "PreviewInSolutionExplorer": false
+}

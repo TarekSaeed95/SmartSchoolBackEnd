@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj": {}
+    "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj": {}
   },
   "projects": {
-    "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj": {
+    "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj",
+        "projectUniqueName": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj",
         "projectName": "SmartSchool.Api",
-        "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.Api\\obj\\",
+        "projectPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.Api\\SmartSchool.Api.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj": {
-                "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj"
+              "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj": {
+                "projectPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj"
               }
             }
           }
@@ -92,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj": {
+    "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj",
+        "projectUniqueName": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj",
         "projectName": "SmartSchool.BL",
-        "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.BL\\obj\\",
+        "projectPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.BL\\SmartSchool.BL.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,8 +120,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {
-                "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj"
+              "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {
+                "projectPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj"
               }
             }
           }
@@ -161,21 +161,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {
+    "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
+        "projectUniqueName": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
         "projectName": "SmartSchool.DAL",
-        "projectPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\0000-Final Project\\00-GitHub\\SmartSchoolBackEnd\\SmartSchool.DAL\\obj\\",
+        "projectPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.DAL\\SmartSchool.DAL.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Smart-School-Main\\Server\\SmartSchoolBackEnd\\SmartSchool.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -246,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
