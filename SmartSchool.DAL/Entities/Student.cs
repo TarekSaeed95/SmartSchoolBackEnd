@@ -73,6 +73,11 @@ namespace SmartSchool.DAL.Entities
         //[InverseProperty("Students")]
         public virtual ClassRoom ClassRoom { get; set; }
 
+
+        //[ForeignKey("StudentId")]
+        //[InverseProperty("student")]
+        public virtual ICollection<StudentAttendance> Attendances { get; set; } = new List<StudentAttendance>();
+
         //[InverseProperty("Student")]
         //public virtual ICollection<ExamsResult> ExamsResults { get; set; } = new List<ExamsResult>();
 

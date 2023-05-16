@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SmartSchool.DAL.Context;
 
@@ -11,9 +12,11 @@ using SmartSchool.DAL.Context;
 namespace SmartSchool.DAL.Migrations
 {
     [DbContext(typeof(SmartSchoolContext))]
-    partial class SmartSchoolContextModelSnapshot : ModelSnapshot
+    [Migration("20230516080857_updateStudentAttendance02")]
+    partial class updateStudentAttendance02
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

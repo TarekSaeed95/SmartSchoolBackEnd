@@ -68,6 +68,8 @@ namespace SmartSchool.Api
             builder.Services.AddScoped<IClassRoomRepo, ClassRoomRepo>();
             builder.Services.AddScoped<IScheduleRepo, ScheduleRepo>();
             builder.Services.AddScoped<ISessionRepo, SessionRepo>();
+            builder.Services.AddScoped<IStudentAttendanceRepo, StudentAttendanceRepo>();
+
             //builder.Services.AddScoped<IComplaintRepo, ComplaintRepo>();
             //builder.Services.AddScoped<IParentRepo, ParentRepo>();
             //builder.Services.AddScoped<IStudentRepo, StudentRepo>();

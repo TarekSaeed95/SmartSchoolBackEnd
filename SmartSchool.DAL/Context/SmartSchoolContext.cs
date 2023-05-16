@@ -26,6 +26,9 @@ namespace SmartSchool.DAL.Context
         public  DbSet<Subject> Subjects { get; set; }
         public  DbSet<Session> Sessions { get; set; }
         public  DbSet<Schedule> Schedules { get; set; }
+        public DbSet<StudentAttendance> StudAttendances { get; set; }
+
+
 
     }
 
